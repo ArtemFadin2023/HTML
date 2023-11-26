@@ -4,25 +4,26 @@
     <title>ArtemFadin</title>
 </head>
 <body>
-    <h1>Рейтинг</h1>
-    <form method="post" action="submit_rating.py">
-        <label for="title">Название произведения:</label>
-        <input type="text" id="title" name="title" required><br><br>
-        
-        <label for="rating">Рейтинг:</label>
-        <select id="rating" name="rating" required>
-            <option value="">Выберите рейтинг</option>
-            <option value="5">Отлично</option>
-            <option value="4">Хорошо</option>
-            <option value="3">Удовлетворительно</option>
-            <option value="2">Плохо</option>
-            <option value="1">Очень плохо</option>
-            <option value="6">Офигенно</option>
-            <option value="7">Потрясающе</option>
-            <option value="8">Круто</option>
-        </select><br><br>
-        
-        <input type="submit" value="Отправить">
-    </form>
+    <section>
+        <article>
+            <h2>Новость 1</h2>
+            <p>PLAYSTATION 5 SLIM ВЫШЛА</p>
+        </article>
+    
+        <article>
+            <h2>Новость 2</h2>
+            <p> SAMSUNG Z FOLD 5 СЛОМАЛСЯ У ПОЛЬЗОВАТЕЛЯ В РУКАХ</p>
+        </article>
+    
+        <article>
+            <h2>Новость 3</h2>
+            <p>ВЫШЕЛ IPHONE 16!</p>
+        </article>
+    
+        <article>
+            <h2>Новость 4</h2>
+            <p>GOOGLE ОБАНКРОТИЛСЯ</p>
+        </article>
+    </section>
 </body>
 </html>
