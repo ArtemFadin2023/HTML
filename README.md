@@ -1,29 +1,26 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>ArtemFadin</title>
-</head>
-<body>
-    <section>
-        <article>
-            <h2>Новость 1</h2>
-            <p>PLAYSTATION 5 SLIM ВЫШЛА</p>
-        </article>
-    
-        <article>
-            <h2>Новость 2</h2>
-            <p> SAMSUNG Z FOLD 5 СЛОМАЛСЯ У ПОЛЬЗОВАТЕЛЯ В РУКАХ</p>
-        </article>
-    
-        <article>
-            <h2>Новость 3</h2>
-            <p>ВЫШЕЛ IPHONE 16!</p>
-        </article>
-    
-        <article>
-            <h2>Новость 4</h2>
-            <p>GOOGLE ОБАНКРОТИЛСЯ</p>
-        </article>
-    </section>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <div></div>
+
+        <p>
+            Получите больше кадров в секунду и добейтесь больше побед в играх 
+            ноутбуком ROG Strix G16, работающим под управлением операционной 
+            системы Windows 11 Pro. Он готов доминировать на полях виртуальных 
+            сражений за счет мощной конфигурации, в которую могут входить
+            процессор Intel Core i9-13980HX, видеокарта NVIDIA GeForce RTX 4080
+            для ноутбуков ( термопакетом до 175 Вт в режиме Dynamic Boost), скоростной т
+            вердотельный накопитель (PCIe 4.0 x4) и передовая оперативная память DDR5-4800 
+            объемом до 32 ГБ. Дисплейный мультиплексор в сочетании  технологией NVIDIA Advanced Optimus
+            обеспечивает автоматическое переключение между режимами повышенной графической производительност
+            и и экономии заряда аккумулятора.
+        </p>
+        
+    </body>
 </html>
